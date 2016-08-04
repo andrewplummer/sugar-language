@@ -10,8 +10,8 @@ Note that this build includes only the "language" module. This repo is a modular
 
 ## Install
 
-#### `npm install sugar-%MODULE_LOWER%`
-#### `bower install sugar-%MODULE_LOWER%`
+#### `npm install sugar-language`
+#### `bower install sugar-language`
 
 ## Getting Started
 
