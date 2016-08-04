@@ -16,3 +16,4 @@ common
 polyfills
 index.js
 package.json
+.npmignore
