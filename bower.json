@@ -1,0 +1,31 @@
+{
+  "name": "sugar-language",
+  "description": "A Javascript utility library for working with native objects. Language module.",
+  "homepage": "https://sugarjs.com/",
+  "license": "MIT",
+  "authors": [
+    "Andrew Plummer <plummer.andrew@gmail.com>"
+  ],
+  "keywords": [
+    "sugar",
+    "sugarjs",
+    "functional",
+    "browser",
+    "utility",
+    "util",
+    "language"
+  ],
+  "main": "dist/sugar-language.js",
+  "ignore": [
+    "**/*",
+    "!dist/*",
+    "!dist/locales/*",
+    "!CHANGELOG.md",
+    "!CAUTION.md",
+    "!README.md",
+    "!LICENSE"
+  ],
+  "moduleType": [
+    "globals"
+  ]
+}
